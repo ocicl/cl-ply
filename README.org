@@ -1,0 +1,10 @@
+* cl-ply
+
+Cl-ply is a library to handle PLY format which is also known as the Stanford Triangle Format.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/takagi/cl-ply.git   |
+| commit  | 5b3a7bc  |
+| systems | cl-ply |
+|---------+-------------------------------------------|
+
